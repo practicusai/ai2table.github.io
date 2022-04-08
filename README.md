@@ -1,1 +1,1 @@
-# ai2table.github.io
+# practicusai.github.io
